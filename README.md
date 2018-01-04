@@ -7,4 +7,7 @@ stages of life and hardship.
 
 #### Reference code
 Ask the for reference code from me.
+
+#### Integrity checksum
+7d3c79b53907b70bb318392d0ed5312bd6a1ca3f7c83f61b656af2f126aa5c54  dritter_januar.apk
         
